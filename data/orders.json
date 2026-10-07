@@ -1,0 +1,164 @@
+[
+  {
+    "id": "O1001",
+    "customerId": "C011",
+    "date": "2026-08-01",
+    "description": "Back-to-school night, 120 people",
+    "total": 1320.0,
+    "dueDate": "2026-08-15",
+    "paid": true
+  },
+  {
+    "id": "O1002",
+    "customerId": "C005",
+    "date": "2026-08-10",
+    "description": "Staff lunch, 25 people",
+    "total": 362.5,
+    "dueDate": "2026-08-24",
+    "paid": false
+  },
+  {
+    "id": "O1003",
+    "customerId": "C015",
+    "date": "2026-08-22",
+    "description": "Book sale lunch, 40 people",
+    "total": 520.0,
+    "dueDate": "2026-09-05",
+    "paid": true
+  },
+  {
+    "id": "O1004",
+    "customerId": "C002",
+    "date": "2026-09-01",
+    "description": "Office lunch, 32 people",
+    "total": 448.0,
+    "dueDate": "2026-09-15",
+    "paid": true
+  },
+  {
+    "id": "O1005",
+    "customerId": "C001",
+    "date": "2026-09-04",
+    "description": "Friday night at the brewery (minimum)",
+    "total": 350.0,
+    "dueDate": "2026-09-18",
+    "paid": true
+  },
+  {
+    "id": "O1006",
+    "customerId": "C002",
+    "date": "2026-09-08",
+    "description": "Office lunch, 30 people",
+    "total": 420.0,
+    "dueDate": "2026-09-22",
+    "paid": true
+  },
+  {
+    "id": "O1007",
+    "customerId": "C010",
+    "date": "2026-09-10",
+    "description": "Coworking lunch, 18 people",
+    "total": 252.0,
+    "dueDate": "2026-09-24",
+    "paid": true
+  },
+  {
+    "id": "O1008",
+    "customerId": "C006",
+    "date": "2026-09-12",
+    "description": "Rehearsal dinner taco bar, 90 people",
+    "total": 2150.0,
+    "dueDate": "2026-09-26",
+    "paid": true
+  },
+  {
+    "id": "O1009",
+    "customerId": "C012",
+    "date": "2026-09-13",
+    "description": "Car show, truck on site 4 hours",
+    "total": 600.0,
+    "dueDate": "2026-09-27",
+    "paid": false
+  },
+  {
+    "id": "O1010",
+    "customerId": "C002",
+    "date": "2026-09-15",
+    "description": "Office lunch, 34 people",
+    "total": 476.0,
+    "dueDate": "2026-09-29",
+    "paid": true
+  },
+  {
+    "id": "O1011",
+    "customerId": "C001",
+    "date": "2026-09-18",
+    "description": "Friday night at the brewery (minimum)",
+    "total": 350.0,
+    "dueDate": "2026-10-02",
+    "paid": true
+  },
+  {
+    "id": "O1012",
+    "customerId": "C013",
+    "date": "2026-09-20",
+    "description": "Makers fair, truck on site",
+    "total": 500.0,
+    "dueDate": "2026-10-04",
+    "paid": false
+  },
+  {
+    "id": "O1013",
+    "customerId": "C002",
+    "date": "2026-09-22",
+    "description": "Office lunch, 31 people",
+    "total": 434.0,
+    "dueDate": "2026-10-06",
+    "paid": true
+  },
+  {
+    "id": "O1014",
+    "customerId": "C016",
+    "date": "2026-09-26",
+    "description": "Recital reception, 60 people",
+    "total": 780.0,
+    "dueDate": "2026-10-10",
+    "paid": false
+  },
+  {
+    "id": "O1015",
+    "customerId": "C002",
+    "date": "2026-09-29",
+    "description": "Office lunch, 33 people",
+    "total": 462.0,
+    "dueDate": "2026-10-13",
+    "paid": false
+  },
+  {
+    "id": "O1016",
+    "customerId": "C010",
+    "date": "2026-10-01",
+    "description": "Coworking lunch, 20 people",
+    "total": 280.0,
+    "dueDate": "2026-10-15",
+    "paid": true
+  },
+  {
+    "id": "O1017",
+    "customerId": "C001",
+    "date": "2026-10-02",
+    "description": "Friday night at the brewery (minimum)",
+    "total": 350.0,
+    "dueDate": "2026-10-16",
+    "paid": false
+  },
+  {
+    "id": "O1018",
+    "customerId": "C002",
+    "date": "2026-10-06",
+    "description": "Office lunch, 35 people",
+    "total": 490.0,
+    "dueDate": "2026-10-20",
+    "paid": false
+  }
+]

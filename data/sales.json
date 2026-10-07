@@ -1,0 +1,86 @@
+[
+  {
+    "id": "W01",
+    "menuItemId": "M01",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 212,
+    "unitsLastWeek": 198
+  },
+  {
+    "id": "W02",
+    "menuItemId": "M02",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 186,
+    "unitsLastWeek": 201
+  },
+  {
+    "id": "W03",
+    "menuItemId": "M03",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 94,
+    "unitsLastWeek": 61
+  },
+  {
+    "id": "W04",
+    "menuItemId": "M04",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 0,
+    "unitsLastWeek": 38
+  },
+  {
+    "id": "W05",
+    "menuItemId": "M05",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 92,
+    "unitsLastWeek": 92
+  },
+  {
+    "id": "W06",
+    "menuItemId": "M06",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 41,
+    "unitsLastWeek": 37
+  },
+  {
+    "id": "W07",
+    "menuItemId": "M07",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 77,
+    "unitsLastWeek": 95
+  },
+  {
+    "id": "W08",
+    "menuItemId": "M08",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 130,
+    "unitsLastWeek": 124
+  },
+  {
+    "id": "W09",
+    "menuItemId": "M09",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 102,
+    "unitsLastWeek": 88
+  },
+  {
+    "id": "W10",
+    "menuItemId": "M10",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 69,
+    "unitsLastWeek": 84
+  },
+  {
+    "id": "W11",
+    "menuItemId": "M11",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 118,
+    "unitsLastWeek": 52
+  },
+  {
+    "id": "W12",
+    "menuItemId": "M12",
+    "weekOf": "2026-09-28",
+    "unitsThisWeek": 152,
+    "unitsLastWeek": 151
+  }
+]

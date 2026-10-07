@@ -1,0 +1,142 @@
+[
+  {
+    "id": "I01",
+    "item": "Corn tortillas",
+    "category": "Food",
+    "unit": "pack of 50",
+    "onHand": 12,
+    "reorderPoint": 10,
+    "supplierId": "S03",
+    "lastOrdered": "2026-10-01"
+  },
+  {
+    "id": "I02",
+    "item": "Chicken thighs",
+    "category": "Food",
+    "unit": "10 lb case",
+    "onHand": 4,
+    "reorderPoint": 5,
+    "supplierId": "S02",
+    "lastOrdered": "2026-09-28"
+  },
+  {
+    "id": "I03",
+    "item": "Pork shoulder",
+    "category": "Food",
+    "unit": "10 lb case",
+    "onHand": 6,
+    "reorderPoint": 4,
+    "supplierId": "S02",
+    "lastOrdered": "2026-10-02"
+  },
+  {
+    "id": "I04",
+    "item": "Butternut squash",
+    "category": "Food",
+    "unit": "case",
+    "onHand": 2,
+    "reorderPoint": 3,
+    "supplierId": "S01",
+    "lastOrdered": "2026-09-25"
+  },
+  {
+    "id": "I05",
+    "item": "Onions",
+    "category": "Food",
+    "unit": "25 lb bag",
+    "onHand": 3,
+    "reorderPoint": 2,
+    "supplierId": "S01",
+    "lastOrdered": "2026-09-30"
+  },
+  {
+    "id": "I06",
+    "item": "Cilantro",
+    "category": "Food",
+    "unit": "bunch",
+    "onHand": 8,
+    "reorderPoint": 12,
+    "supplierId": "S01",
+    "lastOrdered": "2026-10-02"
+  },
+  {
+    "id": "I07",
+    "item": "Limes",
+    "category": "Food",
+    "unit": "case",
+    "onHand": 2,
+    "reorderPoint": 2,
+    "supplierId": "S01",
+    "lastOrdered": "2026-10-02"
+  },
+  {
+    "id": "I08",
+    "item": "Tortilla chips",
+    "category": "Food",
+    "unit": "case",
+    "onHand": 5,
+    "reorderPoint": 4,
+    "supplierId": "S03",
+    "lastOrdered": "2026-09-29"
+  },
+  {
+    "id": "I09",
+    "item": "Sweet corn",
+    "category": "Food",
+    "unit": "case",
+    "onHand": 4,
+    "reorderPoint": 3,
+    "supplierId": "S01",
+    "lastOrdered": "2026-09-30"
+  },
+  {
+    "id": "I10",
+    "item": "Rice",
+    "category": "Food",
+    "unit": "25 lb bag",
+    "onHand": 3,
+    "reorderPoint": 2,
+    "supplierId": "S01",
+    "lastOrdered": "2026-09-21"
+  },
+  {
+    "id": "I11",
+    "item": "To-go bowls",
+    "category": "Packaging",
+    "unit": "case of 300",
+    "onHand": 1,
+    "reorderPoint": 2,
+    "supplierId": "S04",
+    "lastOrdered": "2026-09-14"
+  },
+  {
+    "id": "I12",
+    "item": "Napkins",
+    "category": "Packaging",
+    "unit": "case",
+    "onHand": 6,
+    "reorderPoint": 3,
+    "supplierId": "S04",
+    "lastOrdered": "2026-09-14"
+  },
+  {
+    "id": "I13",
+    "item": "Apple cider",
+    "category": "Drink",
+    "unit": "gallon",
+    "onHand": 9,
+    "reorderPoint": 10,
+    "supplierId": "S05",
+    "lastOrdered": "2026-10-01"
+  },
+  {
+    "id": "I14",
+    "item": "Horchata mix",
+    "category": "Drink",
+    "unit": "5 lb bag",
+    "onHand": 4,
+    "reorderPoint": 2,
+    "supplierId": "S01",
+    "lastOrdered": "2026-09-21"
+  }
+]

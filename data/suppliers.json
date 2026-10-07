@@ -1,0 +1,37 @@
+[
+  {
+    "id": "S01",
+    "name": "Valley Produce Co.",
+    "supplies": "Produce and dry goods",
+    "contact": "Ana Ruiz",
+    "leadTimeDays": 2
+  },
+  {
+    "id": "S02",
+    "name": "Finger Lakes Meats",
+    "supplies": "Meat",
+    "contact": "Carl Jensen",
+    "leadTimeDays": 3
+  },
+  {
+    "id": "S03",
+    "name": "Corner Mill Tortillas",
+    "supplies": "Tortillas and chips",
+    "contact": "Lupe Garza",
+    "leadTimeDays": 2
+  },
+  {
+    "id": "S04",
+    "name": "Lakeshore Packaging",
+    "supplies": "Packaging",
+    "contact": "Owen Marsh",
+    "leadTimeDays": 5
+  },
+  {
+    "id": "S05",
+    "name": "Orchard Hill Cider",
+    "supplies": "Cider",
+    "contact": "Hannah Fisk",
+    "leadTimeDays": 4
+  }
+]

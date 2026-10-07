@@ -1,0 +1,86 @@
+[
+  {
+    "id": "M01",
+    "name": "Chicken tinga taco",
+    "category": "Taco",
+    "price": 4.5,
+    "available": true
+  },
+  {
+    "id": "M02",
+    "name": "Carnitas taco",
+    "category": "Taco",
+    "price": 4.75,
+    "available": true
+  },
+  {
+    "id": "M03",
+    "name": "Roasted squash taco",
+    "category": "Taco",
+    "price": 4.25,
+    "available": true
+  },
+  {
+    "id": "M04",
+    "name": "Fish taco",
+    "category": "Taco",
+    "price": 5.25,
+    "available": false
+  },
+  {
+    "id": "M05",
+    "name": "Burrito bowl",
+    "category": "Bowl",
+    "price": 11.5,
+    "available": true
+  },
+  {
+    "id": "M06",
+    "name": "Veggie bowl",
+    "category": "Bowl",
+    "price": 10.5,
+    "available": true
+  },
+  {
+    "id": "M07",
+    "name": "Elote cup",
+    "category": "Side",
+    "price": 4.0,
+    "available": true
+  },
+  {
+    "id": "M08",
+    "name": "Chips and salsa",
+    "category": "Side",
+    "price": 3.5,
+    "available": true
+  },
+  {
+    "id": "M09",
+    "name": "Churros",
+    "category": "Dessert",
+    "price": 4.5,
+    "available": true
+  },
+  {
+    "id": "M10",
+    "name": "Horchata",
+    "category": "Drink",
+    "price": 3.75,
+    "available": true
+  },
+  {
+    "id": "M11",
+    "name": "Hot apple cider",
+    "category": "Drink",
+    "price": 3.5,
+    "available": true
+  },
+  {
+    "id": "M12",
+    "name": "Bottled water",
+    "category": "Drink",
+    "price": 2.0,
+    "available": true
+  }
+]

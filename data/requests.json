@@ -1,0 +1,102 @@
+[
+  {
+    "id": "R01",
+    "customerId": "C008",
+    "type": "Refund",
+    "submitted": "2026-09-24",
+    "amount": 9.25,
+    "status": "Approved",
+    "approver": "Shift lead",
+    "note": "Got carnitas instead of tinga"
+  },
+  {
+    "id": "R02",
+    "customerId": "C002",
+    "type": "Discount",
+    "submitted": "2026-09-25",
+    "amount": 45.0,
+    "status": "Approved",
+    "approver": "Owner",
+    "note": "10% off for the standing weekly order"
+  },
+  {
+    "id": "R03",
+    "customerId": "C003",
+    "type": "Discount",
+    "submitted": "2026-09-29",
+    "amount": 60.0,
+    "status": "Pending",
+    "approver": "Owner",
+    "note": "Club discount for a 40-person trip send-off"
+  },
+  {
+    "id": "R04",
+    "customerId": "C004",
+    "type": "Special order",
+    "submitted": "2026-09-27",
+    "amount": 0.0,
+    "status": "Approved",
+    "approver": "Owner",
+    "note": "Two extra hours on the last market day"
+  },
+  {
+    "id": "R05",
+    "customerId": "C012",
+    "type": "Schedule change",
+    "submitted": "2026-10-01",
+    "amount": 0.0,
+    "status": "Denied",
+    "approver": "Owner",
+    "note": "Move the car show booking to Sunday; truck already booked"
+  },
+  {
+    "id": "R06",
+    "customerId": "C009",
+    "type": "Refund",
+    "submitted": "2026-10-02",
+    "amount": 4.5,
+    "status": "Pending",
+    "approver": "Shift lead",
+    "note": "Churros were cold"
+  },
+  {
+    "id": "R07",
+    "customerId": "C001",
+    "type": "Special order",
+    "submitted": "2026-10-03",
+    "amount": 0.0,
+    "status": "Pending",
+    "approver": "Owner",
+    "note": "Pumpkin dessert for Oktoberfest night"
+  },
+  {
+    "id": "R08",
+    "customerId": "C016",
+    "type": "Special order",
+    "submitted": "2026-09-28",
+    "amount": 0.0,
+    "status": "Approved",
+    "approver": "Owner",
+    "note": "Vegan option for the recital reception"
+  },
+  {
+    "id": "R09",
+    "customerId": "C010",
+    "type": "Discount",
+    "submitted": "2026-10-05",
+    "amount": 28.0,
+    "status": "Pending",
+    "approver": "Owner",
+    "note": "Coupon from the coworking newsletter"
+  },
+  {
+    "id": "R10",
+    "customerId": "C014",
+    "type": "Refund",
+    "submitted": "2026-10-06",
+    "amount": 3.75,
+    "status": "Pending",
+    "approver": "Shift lead",
+    "note": "Horchata spilled at the window"
+  }
+]

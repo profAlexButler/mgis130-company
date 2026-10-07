@@ -1,0 +1,146 @@
+[
+  {
+    "id": "C001",
+    "name": "Riverside Brewing Co.",
+    "type": "Venue",
+    "contact": "Marcus Hale",
+    "email": "marcus.hale@example.com",
+    "lastContact": "2026-10-02",
+    "since": "2025-05-10"
+  },
+  {
+    "id": "C002",
+    "name": "Lakeview Office Park",
+    "type": "Office lunch",
+    "contact": "Priya Nandakumar",
+    "email": "priya.nandakumar@example.com",
+    "lastContact": "2026-10-05",
+    "since": "2025-09-01"
+  },
+  {
+    "id": "C003",
+    "name": "Campus Outdoors Club",
+    "type": "Campus",
+    "contact": "Eli Brooks",
+    "email": "eli.brooks@example.com",
+    "lastContact": "2026-08-21",
+    "since": "2026-02-14"
+  },
+  {
+    "id": "C004",
+    "name": "Maple Street Farmers Market",
+    "type": "Venue",
+    "contact": "Rosa Delgado",
+    "email": "rosa.delgado@example.com",
+    "lastContact": "2026-09-26",
+    "since": "2025-06-01"
+  },
+  {
+    "id": "C005",
+    "name": "Northgate Medical Group",
+    "type": "Office lunch",
+    "contact": "Tom Whitaker",
+    "email": "tom.whitaker@example.com",
+    "lastContact": "2026-08-12",
+    "since": "2025-11-03"
+  },
+  {
+    "id": "C006",
+    "name": "Genesee Valley Wedding Co.",
+    "type": "Catering",
+    "contact": "Alana Price",
+    "email": "alana.price@example.com",
+    "lastContact": "2026-09-18",
+    "since": "2026-01-20"
+  },
+  {
+    "id": "C007",
+    "name": "Southside Rec League",
+    "type": "Event",
+    "contact": "Dev Patel",
+    "email": "dev.patel@example.com",
+    "lastContact": "2026-07-30",
+    "since": "2026-04-11"
+  },
+  {
+    "id": "C008",
+    "name": "Jordan Ellis",
+    "type": "Regular",
+    "contact": "Jordan Ellis",
+    "email": "jordan.ellis@example.com",
+    "lastContact": "2026-10-04",
+    "since": "2025-08-15"
+  },
+  {
+    "id": "C009",
+    "name": "Sam Okafor",
+    "type": "Regular",
+    "contact": "Sam Okafor",
+    "email": "sam.okafor@example.com",
+    "lastContact": "2026-09-29",
+    "since": "2026-03-02"
+  },
+  {
+    "id": "C010",
+    "name": "Harbor Tech Coworking",
+    "type": "Office lunch",
+    "contact": "Mei Lin",
+    "email": "mei.lin@example.com",
+    "lastContact": "2026-09-08",
+    "since": "2026-05-19"
+  },
+  {
+    "id": "C011",
+    "name": "Pinecrest High School PTA",
+    "type": "Catering",
+    "contact": "Laura Kim",
+    "email": "laura.kim@example.com",
+    "lastContact": "2026-08-03",
+    "since": "2026-07-28"
+  },
+  {
+    "id": "C012",
+    "name": "Eastview Car Club",
+    "type": "Event",
+    "contact": "Frank Russo",
+    "email": "frank.russo@example.com",
+    "lastContact": "2026-09-14",
+    "since": "2026-06-22"
+  },
+  {
+    "id": "C013",
+    "name": "Union Hall Makers Fair",
+    "type": "Event",
+    "contact": "Nadia Cole",
+    "email": "nadia.cole@example.com",
+    "lastContact": "2026-09-21",
+    "since": "2026-07-08"
+  },
+  {
+    "id": "C014",
+    "name": "Taylor Brooks",
+    "type": "Regular",
+    "contact": "Taylor Brooks",
+    "email": "taylor.brooks@example.com",
+    "lastContact": "2026-10-06",
+    "since": "2026-09-10"
+  },
+  {
+    "id": "C015",
+    "name": "Westfield Library Friends",
+    "type": "Catering",
+    "contact": "Grace Owusu",
+    "email": "grace.owusu@example.com",
+    "lastContact": "2026-08-25",
+    "since": "2026-03-30"
+  },
+  {
+    "id": "C016",
+    "name": "Crescent Dance Studio",
+    "type": "Catering",
+    "contact": "Bianca Moreno",
+    "email": "bianca.moreno@example.com",
+    "lastContact": "2026-09-30",
+    "since": "2026-09-30"
+  }
+]

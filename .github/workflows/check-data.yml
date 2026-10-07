@@ -1,0 +1,13 @@
+name: Check company data
+on:
+  push:
+    paths: ["data/**"]
+  pull_request:
+    paths: ["data/**"]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check the data against the contract
+        run: python3 scripts/check_data.py
